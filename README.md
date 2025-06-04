@@ -1,2 +1,2 @@
-# CSharp-40.Proje
+# C#-40.Proje
 Tarih ve Saat2
