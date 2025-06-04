@@ -1,0 +1,7 @@
+C:\Users\mitha\source\repos\Tarih ve Saat2\Tarih ve Saat2\bin\Debug\Tarih ve Saat2.exe.config
+C:\Users\mitha\source\repos\Tarih ve Saat2\Tarih ve Saat2\bin\Debug\Tarih ve Saat2.exe
+C:\Users\mitha\source\repos\Tarih ve Saat2\Tarih ve Saat2\bin\Debug\Tarih ve Saat2.pdb
+C:\Users\mitha\source\repos\Tarih ve Saat2\Tarih ve Saat2\obj\Debug\Tarih ve Saat2.csproj.AssemblyReference.cache
+C:\Users\mitha\source\repos\Tarih ve Saat2\Tarih ve Saat2\obj\Debug\Tarih ve Saat2.csproj.CoreCompileInputs.cache
+C:\Users\mitha\source\repos\Tarih ve Saat2\Tarih ve Saat2\obj\Debug\Tarih ve Saat2.exe
+C:\Users\mitha\source\repos\Tarih ve Saat2\Tarih ve Saat2\obj\Debug\Tarih ve Saat2.pdb
